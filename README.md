@@ -23,14 +23,11 @@ Scrapes and makes dongs readily available in your terminal!
 ## Additional help
  `$ dong help`
 
-## Real world usages
-- Weechat
-
-  `/alias add dong /exec -o dong`
-  
-  `/dong`
-  
-  `nick: (ง ͡ʘ ͜ʖ ͡ʘ)ง`
+## TODO
+- [ ] Fix scraper, doesn't seem like it actually paginates properly.
+- [ ] Add option to add your own / edit / delete
+- [ ] Favorite / name dongs
+- [ ] UI pop up with fuzzy search, cat search, etc
 
 # About
 ヽ༼ຈل͜ຈ༽ﾉ FOREVER DONG ヽ༼ຈل͜ຈ༽ﾉ
